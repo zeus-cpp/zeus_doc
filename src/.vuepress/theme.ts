@@ -64,10 +64,10 @@ export default hopeTheme({
     // You should generate and use your own comment service
     comment: {
       provider: "Giscus",
-      repo: "ZeusFramework/docs",
-      repoId: "R_kgDOKboWmQ",
-      category: "Announcements",
-      categoryId: "DIC_kwDOKboWmc4CZ_77",
+      repo: "CaptainNeil/zeus_doc",
+      repoId: "R_kgDOLmn0kg",
+      category: "General",
+      categoryId: "DIC_kwDOLmn0ks4CeTAy",
     },
 
     // All features are enabled for demo, only preserve features you need here
