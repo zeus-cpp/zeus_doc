@@ -16,10 +16,10 @@ export const enSidebar = sidebar({
       prefix: "guide/",
       children: "structure",
     },
-    {
-      text: "Slides",
-      icon: "person-chalkboard",
-      link: "https://plugin-md-enhance.vuejs.press/guide/content/revealjs/demo.html",
-    },
+    // {
+    //   text: "Slides",
+    //   icon: "person-chalkboard",
+    //   link: "https://plugin-md-enhance.vuejs.press/guide/content/revealjs/demo.html",
+    // },
   ],
 });

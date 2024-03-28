@@ -27,15 +27,15 @@ highlights:
     features:
       - title: Cross Platform
         icon: bug-slash
-        details: 需要翻译
+        details: 填写点什么文档。。。。
 
       - title: Plugin
         icon: box-archive
-        details: 需要翻译
+        details: 填写点什么文档。。。。
 
       - title: Foundation
         icon: bolt
-        details: 需要翻译
+        details: 填写点什么文档。。。。
 
 copyright: false
 footer:
@@ -43,8 +43,9 @@ footer:
   Copyright © 2019-present Zeusframework
 ---
 
-** 快速开始 **
-```
+
+**快速开始**
+```bash
 git clone url
 cd repo
 conan install .
