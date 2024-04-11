@@ -1,4 +1,4 @@
-import{_ as e}from"./plugin-vue_export-helper-DlAUqK2U.js";import{o as t,c as a,a as o}from"./app-DBorphag.js";const s={},r=o(`<p><strong>快速开始</strong></p><div class="language-bash line-numbers-mode" data-ext="sh" data-title="sh"><pre class="language-bash"><code><span class="token function">git</span> clone url
+import{_ as e}from"./plugin-vue_export-helper-DlAUqK2U.js";import{o as t,c as a,a as o}from"./app-MNfVDLe1.js";const s={},r=o(`<p><strong>快速开始</strong></p><div class="language-bash line-numbers-mode" data-ext="sh" data-title="sh"><pre class="language-bash"><code><span class="token function">git</span> clone url
 <span class="token builtin class-name">cd</span> repo
 conan <span class="token function">install</span> <span class="token builtin class-name">.</span>
 cmake <span class="token parameter variable">--preset</span>
